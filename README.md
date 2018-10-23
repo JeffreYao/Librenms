@@ -11,8 +11,8 @@ Link ->
 https://community.librenms.org/t/updated-librenms-vm-now-cant-access-webui/3236
 
 commanline:
-root@Ubuntu-srv02:~#cd /opt/librenms
-root@Ubuntu-srv02:~# ./scripts/composer_wrapper.php install — no-dev
+librenms@Ubuntu-srv02:~# cd /opt/librenms
+librenms@Ubuntu-srv02:~# ./scripts/composer_wrapper.php install — no-dev
 -----------------------------------------------------------------------------------
 
 
